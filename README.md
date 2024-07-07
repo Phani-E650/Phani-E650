@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I'm [Phani]
 
 <!--
 **Phani-E650/Phani-E650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phani-E650&langs_count=4&border_radius=10&layout=compact&theme=ayu-mirage" />
 
-## Hello there, I'm [Phani]
 
 Working full time as a Backend Engineer, writing stuff in Java 🤗. 
