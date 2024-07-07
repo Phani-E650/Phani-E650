@@ -1,4 +1,4 @@
-## Hi there , I'm [Phani]
+## Hi there , I'm [Phani Talapaneni]
 
 <!--
 **Phani-E650/Phani-E650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
