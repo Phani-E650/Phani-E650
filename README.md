@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phani-E650&langs_count=4&border_radius=10&layout=compact&theme=ayu-mirage" />
+
+## Hello there, I'm [Phani]
+
+Working full time as a Backend Engineer, writing stuff in Java 🤗. 
